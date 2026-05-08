@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# База данных (если не хотите делиться своим списком)
+movies.json
+
+# Окружение
+.venv/
+env/
